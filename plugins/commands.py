@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='https://t.me/MovieHubOfficialGroup')
+                InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Movies4youBackup')
             ],
             [
                 InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
@@ -59,7 +59,7 @@ async def start(client, message):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action("typing")
-        m=await message.reply_sticker("CAACAgUAAxkBAAEO6RtiO7D4w8Paf-xsd4NCdvg8efiU1wACFQEAAsiUZBRmRDCipxVsEyME") 
+        m=await message.reply_sticker("CAACAgIAAxkBAAEEl_JibOis-2nMYUvETYfTK9zyC0DrwwACAQEAAladvQoivp8OuMLmNCQE") 
         await asyncio.sleep(2)
         await m.delete()
         await message.reply_chat_action("typing")
@@ -70,8 +70,8 @@ async def start(client, message):
             parse_mode='html'
         )
         await message.reply_chat_action("Typing")
-        m=await message.reply_sticker("CAACAgUAAxkBAAEQ8XRiO8iXcdMUHwiie4V7IrblsmAAAQkAApwAA8iUZBRzjwAB89rFhfweBA") 
-        await asyncio.sleep(20)
+        m=await message.reply_sticker("CAACAgIAAxkBAAEEmHRibVWPO6i8PyxLxsyEeaHSigSf5AAC-AADVp29CnEc44tDt0HgJAQ") 
+        await asyncio.sleep(2)
         await m.delete()
         return
     if AUTH_CHANNEL and not await is_subscribed(client, message):
@@ -106,10 +106,10 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ʜᴇʀᴇ ᴍᴏᴠɪᴇ🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/ABHISHEKSVLOG'),
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/MovieHubOfficialGroup')
+            InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/KingOf_univers'),
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/Movies_4you')
             ],[
-            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ', url='https://t.me/Justaupdatechannel'),
+            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ', url='https://t.me/Movies4youBackup'),
             ],[
             InlineKeyboardButton('✗ ᴄʟᴏsᴇ ᴛʜᴇ ᴍᴇɴᴜ ✗' , callback_data='close_data')
         ]]
@@ -258,11 +258,11 @@ async def start(client, message):
         f_caption = f"{files.file_name}"
     buttons = [
         [
-            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/MovieHubOfficialGroup'),
-            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/Abhisheksvlog')
+            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/Movies_4you'),
+            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/KingOf_univers')
         ],
         [
-            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/justaupdatechannel')
+            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/Movies4youBackup')
         ]
         ]
     await client.send_cached_media(
