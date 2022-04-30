@@ -821,8 +821,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴜʀʟ-sʜᴏʀᴛɴᴇʀ', callback_data='url'),
             InlineKeyboardButton('ᴛᴏʀʀᴇɴᴛ', callback_data='torrent'),
             ],[
-            InlineKeyboardButton('ᴡᴀʀɴ', callback_data='warn'),
-            ],[
             InlineKeyboardButton('ʙᴏᴛ sᴛᴀᴛᴜs', callback_data='restatus'),
             InlineKeyboardButton('ᴛᴇxᴛ ᴛᴏ ɪᴍᴀɢᴇ', callback_data='img'),
             InlineKeyboardButton('ՏTYᒪIՏᕼ ᖴOᑎTՏ', callback_data='fonts'),
@@ -830,6 +828,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴄᴀʀʙᴏɴ', callback_data='carbon'),
             InlineKeyboardButton('ʟʏʀɪᴄs', callback_data='lyrics'),
             InlineKeyboardButton('ɪᴘ ᴀᴅᴅʀᴇss', callback_data='ip'),
+            ],[
+            InlineKeyboardButton('ᴡᴀʀɴ', callback_data='warn'),
             ],[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('sᴛᴀᴛᴜs', callback_data='stats'),
