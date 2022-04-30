@@ -155,8 +155,8 @@ async def next_page(bot, query):
             )
     btn.insert(0,
             [
-                InlineKeyboardButton("⭕️ ɢʀᴏᴜᴘ ⭕️", url="https://t.me/cinemaenglish123"),
-                InlineKeyboardButton("⭕️ ᴅᴇᴠ ⭕️", url="https://t.me/abhisheksvlog")
+                InlineKeyboardButton("⭕️ ɢʀᴏᴜᴘ ⭕️", url="https://t.me/Movies_4you"),
+                InlineKeyboardButton("⭕️ ᴅᴇᴠ ⭕️", url="https://t.me/KingOf_univers")
             ])
 
     btn.insert(0, [
@@ -408,11 +408,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{files.file_name}"
         buttons = [
         [
-            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/MovieHubOfficialGroup'),
-            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/Abhisheksvlog')
+            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/Movies_4you'),
+            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/KingOf_univers')
         ],
         [
-            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/justaupdatechannel')
+            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/Movies4youBackup')
         ]
         ]
 
@@ -461,11 +461,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f"{title}"
         buttons = [
         [
-            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/MovieHubOfficialGroup'),
-            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/Abhisheksvlog')
+            InlineKeyboardButton('𝑮𝒓𝒐𝒖𝒑', url='https://t.me/Movies_4you'),
+            InlineKeyboardButton('𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓', url='https://t.me/KingOf_univers')
         ],
         [
-            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/justaupdatechannel')
+            InlineKeyboardButton('𝑪𝒉𝒂𝒏𝒏𝒆𝒍', url=f'https://t.me/Movies4youBackup')
         ]
         ]
         await query.answer()
@@ -718,10 +718,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ʜᴇʀᴇ ᴍᴏᴠɪᴇ🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/ABHISHEKSVLOG'),
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/MovieHubOfficialGroup')
+            InlineKeyboardButton('ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/KingOf_univers'),
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/Movies_4you')
             ],[
-            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ', url='https://t.me/Justaupdatechannel'),
+            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ', url='https://t.me/Movies4youBackup'),
             ],[
             InlineKeyboardButton('✗ ᴄʟᴏsᴇ ᴛʜᴇ ᴍᴇɴᴜ ✗', callback_data='close_data')
         ]]
@@ -822,18 +822,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴛᴏʀʀᴇɴᴛ', callback_data='torrent'),
             ],[
             InlineKeyboardButton('ᴡᴀʀɴ', callback_data='warn'),
-            InlineKeyboardButton('ᴍᴀʟʟᴜ ᴀᴜɴᴛʏ', callback_data='aunty'),
-            InlineKeyboardButton('ᴍᴀᴍᴍᴏᴋᴀ', callback_data='mammoka'),
             ],[
-            InlineKeyboardButton('Bot Status', callback_data='restatus'),
-            InlineKeyboardButton('Text To Img', callback_data='img'),
+            InlineKeyboardButton('ʙᴏᴛ sᴛᴀᴛᴜs', callback_data='restatus'),
+            InlineKeyboardButton('ᴛᴇxᴛ ᴛᴏ ɪᴍᴀɢᴇ', callback_data='img'),
             InlineKeyboardButton('ՏTYᒪIՏᕼ ᖴOᑎTՏ', callback_data='fonts'),
             ],[
-            InlineKeyboardButton('Carbon', callback_data='carbon'),
-            InlineKeyboardButton('Lyrics', callback_data='lyrics'),
-            InlineKeyboardButton('IP Address', callback_data='ip'),
-            ],[
-            InlineKeyboardButton('Shazam', callback_data='shazam'),
+            InlineKeyboardButton('ᴄᴀʀʙᴏɴ', callback_data='carbon'),
+            InlineKeyboardButton('ʟʏʀɪᴄs', callback_data='lyrics'),
+            InlineKeyboardButton('ɪᴘ ᴀᴅᴅʀᴇss', callback_data='ip'),
             ],[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('sᴛᴀᴛᴜs', callback_data='stats'),
@@ -924,7 +920,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('🔍sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇ🔎', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('🍿ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ🍿', url='https://t.me/MovieHubOfficialGroup')
+            InlineKeyboardButton('🍿ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ🍿', url='https://t.me/Movies_4you')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs', callback_data='help')
             ],[
@@ -2388,14 +2384,14 @@ async def auto_filter(client, msg, spoll=False):
              InlineKeyboardButton(text="ɴᴇxᴛ 🛡️", callback_data=f"next_{req}_{key}_{offset}")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="🎀 ᴊᴏɪɴ ᴏᴜʀ ᴄᴀɴɴᴇʟ 🎀",url="https://t.me/Justaupdatechannel")]
+            [InlineKeyboardButton(text="🎀 ᴊᴏɪɴ ᴏᴜʀ ᴄᴀɴɴᴇʟ 🎀",url="https://t.me/Movies4youBackup")]
         )
     else:
         btn.append(
             [InlineKeyboardButton(text="💠 1/1", callback_data="pages")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="🎀 ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ 🎀",url="https://t.me/JUSTAUPDATECHANNEL")]
+            [InlineKeyboardButton(text="🎀 ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ 🎀",url="https://t.me/Movies4youBackup")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
