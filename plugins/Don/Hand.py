@@ -29,7 +29,7 @@ async def text(bot, message):
         await bot.send_photo(
             chat_id=chat_id,
             photo=file_name,
-            caption="Join <a href='https://t.me/MovieHubOfficialGroup>Movie Hub Official</a>"
+            caption="Join <a href='https://t.me/Movies4youBackup >Movies4youBackup</a>"
         )
         await txt.delete()
         os.remove(file_name)
