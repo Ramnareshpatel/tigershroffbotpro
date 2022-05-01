@@ -4,41 +4,39 @@ Nɪᴄᴇ Tᴏ Mᴇᴇᴛ Yᴏᴜ 🙌
 I'ᴍ Jᴜsᴛ A Pʀᴇ - Fᴜɴᴄᴛɪᴏɴᴀʟ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ
 
 Iᴛ's Eᴀsʏ Tᴏ Usᴇ Mᴇ; Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ, Hɪᴛ /help Fᴏʀ Mᴏʀᴇ
-➖➖➖➖➖➖➖➖➖➖➖➖➖
+══════════════════════
 ©MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href='tg://user?id=1345179077'><b>會؄𝚂𝚄𝚁𝙰𝙹؄會</b></a> .</b>"""
 
-    HELP_TXT = """<b>𝖧𝖾𝗋𝖾 𝗂𝗌 𝗍𝗁𝖾 𝖴𝗌𝗎𝖺𝗅 𝖼𝗈𝗆𝗆𝖺𝗇𝖽𝗌</b>: 
-/start - 𝖼𝗁𝖾𝖼𝗄 𝗐𝗁𝖾𝗍𝗁𝖾𝗋 𝗂𝗆 𝗈𝗇𝗅𝗂𝗇𝖾 
-/help - 𝗀𝖾𝗍 𝗍𝗁𝗂𝗌 𝗁𝖾𝗅𝗉 𝗆𝖾𝗌𝗌𝖺𝗀𝖾
-/about - 𝖺𝖻𝗈𝗎𝗍 𝗆𝖾"""
+    HELP_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Hᴇʟᴘ Mᴏᴅᴜʟᴇ ⍟</b>: 
+/start - <b>Cʜᴇᴄᴋ Wʜᴇᴛʜᴇʀ Iᴍ Oɴʟʏ</b> 
+/help - <b>Gᴇᴛ Tʜɪs Hᴇʟᴘ Mᴇssᴀɢᴇ</b>
+/about - <b>Aʙᴏᴜᴛ Mᴇ</b>"""
     ABOUT_TXT = """
 ╔══════════════════❍
 ║╭━━━━━━━━━━━━━━━➣ 
-║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 -  Tiger Shroff
-║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - :<a href='tg://user?id=1345179077'><b>會؄𝚂𝚄𝚁𝙰𝙹؄會</b></a>
-║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href='https://t.me/KingOf_univers'>Everyone in this journey </a>
-║➠ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒕𝒉𝒐𝒏 3 </a>
-║➠ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - <a href='https://docs.pyrogram.org/'>𝑷ʏʀᴏɢʀᴀᴍ </a>
-║➠ 𝙲𝙻𝙾𝙽𝙴𝙳 𝙵𝚁𝙾𝙼 - EvaMaria
-║➠ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 -  <a href='https://dashboard.heroku.com/apps'>𝑯𝒆𝒓𝒐𝒌𝒖</a>
-║➠ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 - <a href='https://t.me/TigerShroffimdbot'>𝒗8.7.2[𝑴𝒂𝒋𝒐𝒓]</a>
-║➠ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 - <a href='https://t.me/Movies4youbackup'>𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒆</a>
+║➠ Mʏ Nᴀᴍᴇ -  Cᴜᴛᴇ Dᴇᴠɪʟ
+║➠ Cʀᴇᴀᴛᴇʀ - :<a href='tg://user?id=1345179077'><b>會؄𝚂𝚄𝚁𝙰𝙹؄會</b></a>
+║➠ Cʀᴇᴅɪᴛs - <a href='https://t.me/KingOf_univers'>Eᴠᴇʀʏᴏɴᴇ Iɴ Tʜɪs Jᴏᴜʀɴᴇʏ</a>
+║➠ Lᴀɴɢᴜᴀɢᴇ - <a href='https://docs.pyrogram.org/'>Pʏᴛʜᴏɴ 𝟹</a>
+║➠ Lɪʙʀᴀʀʏ - <a href='https://docs.pyrogram.org/'>Pʀᴏɢʀᴀᴍ</a>
+║➠ Cʟᴏɴᴇᴅ Fᴏʀᴍ - EᴠᴀMᴀʀɪᴀ
+║➠ Dᴀᴛᴀ Bᴀsᴇ -  <a href='https://dashboard.heroku.com/apps'>Hᴇʀᴏᴋᴜ</a>
+║➠ Bᴜɪʟᴅ Sᴛᴀᴛᴜs - <a href='https://t.me/Best_Autofilter_v4_Bot'>𝒗8.7.2[Mᴀᴊᴏʀ]</a>
+║➠ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ - <a href='https://github.com/EvamariaTG/EvaMaria'>Cʟɪᴄᴋ Hᴇʀᴇ</a>
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍
     
+🔖 𝑸𝒖𝒐𝒕𝒆 : Eᴠᴇʀʏᴏɴᴇ Gᴇᴛs Wʜᴀᴛ Nᴏ Oɴᴇ Sʜᴏᴜʟᴅ Bᴇ Aғʀᴀɪᴅ Oғ ™️"""
 
-
-🔖 𝑸𝒖𝒐𝒕𝒆 : Everyone gets what no one should be afraid of ™️"""
-
-    IP_TXT = """<b>IP Address Finder Module</b>
-- if you want to Find Details of a IP Address Use the Module
-<b>Command</b>
+    IP_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Iᴘ Aᴅᴅʀᴇss Mᴏᴅᴜʟᴇ ⍟</b>
+<b>☞ ɪғ Yᴏᴜ Wᴀɴᴛ ᴛᴏ Fɪɴᴅ Dᴇᴛᴀɪʟs Oғ A Iᴘ Aᴅᴅʀᴇss Usᴇ Tʜᴇ Mᴏᴅᴜʟᴇ.</b>
+<b>Cᴏᴍᴍᴀɴᴅ</b>
 - /ip [Ip address]
 - ex /ip 192.180.0.1"""
 
-    LYRICS_TXT = """<b>Lyrics 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝖬𝗈𝖽𝗎𝗅𝖾</b>
-- 𝖨𝖿 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍 𝗍𝗈 𝖽𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝖺 lyric, 𝖽𝗈𝗇'𝗍 𝗌𝖾𝖺𝗋𝖼𝗁 𝖿𝗈𝗋 𝗈𝗍𝗁𝖾𝗋 𝖻𝗈𝗍 𝗁𝖾𝗋𝖾 𝗂𝗌 𝗍𝗁𝖾 𝖺𝗅𝗅 𝗂𝗇 𝗈𝗇𝖾 𝖻𝗈𝗍
-<b>𝖢𝗈𝗆𝗆𝖺𝗇𝖽</b>
-- /lyrics [Song Name] - 𝖳𝗈 𝗀𝖾𝗍 𝗍𝗁𝖾 lyrics
+    LYRICS_TXT = """<b>⍟ Wᴇʟᴄᴏᴍᴇ Tᴏ Lʏʀɪᴄs Dᴏᴡɴʟᴏᴀᴅ Mᴏᴅᴜʟᴇ ⍟</b>
+<b>☞ Iғ Yᴏᴜ Wᴀɴᴛ Tᴏ Dᴏᴡɴʟᴏᴀᴅ A Lʏʀɪᴄs, Dᴏɴ'ᴛ Sᴇᴀʀᴄʜ Fᴏʀ Oᴛʜᴇʀ Bᴏᴛ Hᴇʀᴇ Is Tʜᴇ Aʟʟ Iɴ Oɴᴇ Bᴏᴛ.</b>
+<b>Cᴏᴍᴍᴀɴᴅ</b>
+☞ /lyrics [Sᴏɴɢ Nᴀᴍᴇ] - Tᴏ Gᴇᴛ Tʜᴇ Lʏʀɪᴄs
 <b>Usage</b>
 - 𝖢𝖺𝗇 𝖻𝖾 𝗎𝗌𝖾𝖽 𝖻𝗒 𝖾𝗏𝖾𝗋𝗒 𝗈𝗇𝖾
 - 𝖶𝗈𝗋𝗄𝗌 𝗈𝗇𝗅𝗒 𝗂𝗇 𝖻𝗈𝗍𝗌 𝗉𝗆
